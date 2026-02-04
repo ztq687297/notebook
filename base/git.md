@@ -64,7 +64,7 @@ git config --global user.email "lvge821641@outlook.com"
 git status [filename]
 
 # 查看所有文件状态
-gut status
+git status
 
 # 添加所有文件到暂存区
 git add .
